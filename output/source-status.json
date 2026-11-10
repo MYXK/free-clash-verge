@@ -1,27 +1,26 @@
 {
-  "generated_at": "2026-11-10T02:44:30.033486+00:00",
+  "generated_at": "2026-11-10T10:29:16.758203+00:00",
   "proxy_count": 500,
   "sources": [
     {
       "name": "PuddinCat/BestClash",
       "url": "https://raw.githubusercontent.com/PuddinCat/BestClash/main/proxies.yaml",
-      "ok": true,
-      "received": 16,
-      "added": 16
+      "ok": false,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
       "received": 1751,
-      "added": 560
+      "added": 565
     },
     {
       "name": "awesome-vpn/awesome-vpn",
       "url": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml",
       "ok": true,
-      "received": 36,
-      "added": 18
+      "received": 29,
+      "added": 19
     },
     {
       "name": "vxiaov/free_proxies",
@@ -33,30 +32,28 @@
     {
       "name": "ermaozi/get_subscribe",
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
-      "ok": true,
-      "received": 489,
-      "added": 405
+      "ok": false,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
       "received": 2203,
-      "added": 2064
+      "added": 2149
     },
     {
       "name": "ermaozi01/free_clash_vpn",
       "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
-      "ok": true,
-      "received": 14,
-      "added": 0
+      "ok": false,
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     {
       "name": "peasoft/NoMoreWalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
       "received": 125,
-      "added": 0
+      "added": 78
     },
     {
       "name": "NiceVPN123/NiceVPN",
@@ -69,7 +66,7 @@
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
-      "received": 125,
+      "received": 124,
       "added": 0
     }
   ]

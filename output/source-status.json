@@ -1,26 +1,27 @@
 {
-  "generated_at": "2026-11-10T10:29:16.758203+00:00",
+  "generated_at": "2026-11-10T18:09:09.432711+00:00",
   "proxy_count": 500,
   "sources": [
     {
       "name": "PuddinCat/BestClash",
       "url": "https://raw.githubusercontent.com/PuddinCat/BestClash/main/proxies.yaml",
-      "ok": false,
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "ok": true,
+      "received": 16,
+      "added": 16
     },
     {
       "name": "Au1rxx/free-vpn-subscriptions",
       "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/clash.yaml",
       "ok": true,
       "received": 1751,
-      "added": 565
+      "added": 560
     },
     {
       "name": "awesome-vpn/awesome-vpn",
       "url": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml",
       "ok": true,
       "received": 29,
-      "added": 19
+      "added": 18
     },
     {
       "name": "vxiaov/free_proxies",
@@ -32,41 +33,43 @@
     {
       "name": "ermaozi/get_subscribe",
       "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml",
-      "ok": false,
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "ok": true,
+      "received": 494,
+      "added": 395
     },
     {
       "name": "anaer/Sub",
       "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
       "ok": true,
-      "received": 2203,
-      "added": 2149
+      "received": 1803,
+      "added": 1772
     },
     {
       "name": "ermaozi01/free_clash_vpn",
       "url": "https://raw.githubusercontent.com/ermaozi01/free_clash_vpn/main/subscribe/clash.yml",
-      "ok": false,
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "ok": true,
+      "received": 22,
+      "added": 1
     },
     {
       "name": "peasoft/NoMoreWalls",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml",
       "ok": true,
-      "received": 125,
-      "added": 78
+      "received": 133,
+      "added": 14
     },
     {
       "name": "NiceVPN123/NiceVPN",
       "url": "https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml",
       "ok": true,
       "received": 3646,
-      "added": 3128
+      "added": 3130
     },
     {
       "name": "chengaopan/AutoMergePublicNodes",
       "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml",
       "ok": true,
-      "received": 124,
+      "received": 133,
       "added": 0
     }
   ]
